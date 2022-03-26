@@ -1,0 +1,38 @@
+{
+    "name": "Wonder Woman",
+    "symbol": "W",
+    "description": "The Great Amazon warrior who possesses superhuman strength and speed.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": "8000"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "2000"
+        },
+        {
+            "trait_type": "intelligence",
+            "value": "100"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "2cUDDtkVe6FzRfRGTSzRfrmbyxfJnMjxCWi8oEM1ysPf",
+                "share": 100
+            }
+        ]
+    },
+    "collection": {
+        "name": "Justice League",
+        "family": "Justice League"
+    }
+}

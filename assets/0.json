@@ -1,0 +1,38 @@
+{
+    "name": "Superman",
+    "symbol": "S",
+    "description": "The last son of Crypton. Kal-El is known as superman. He is super-strong and fast.",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": "10000"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "3000"
+        },
+        {
+            "trait_type": "intelligence",
+            "value": "100"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "2cUDDtkVe6FzRfRGTSzRfrmbyxfJnMjxCWi8oEM1ysPf",
+                "share": 100
+            }
+        ]
+    },
+    "collection": {
+        "name": "Justice League",
+        "family": "Justice League"
+    }
+}
